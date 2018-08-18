@@ -1,0 +1,1 @@
+call .\.venv\Scripts\activate.bat & python ssh_tunnel.py
